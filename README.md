@@ -2,18 +2,15 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+TO DO LIST-to help the people to add event in day to day life
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [sharath s nair](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [shibin ms](https://github.com/TH-Activities/saturday-hack-night-template)
+3. [steve tanex](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
+1. 
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+Library Name - pycone
