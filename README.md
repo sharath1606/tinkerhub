@@ -7,7 +7,7 @@ TO DO LIST-to help the people to add event in day to day life
 2. [shibin ms](https://github.com/TH-Activities/saturday-hack-night-template)
 3. [steve tanex](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
-[link to video](Link Here)
+https://www.kapwing.com/videos/647b6b33674e80001eb161f6(Link Here)
 ## How it Works ?
 1. this webapp helps to add day to day events to the list.here this app is  made using pynecone.
 
